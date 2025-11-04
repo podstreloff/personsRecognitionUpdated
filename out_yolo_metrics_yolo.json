@@ -1,0 +1,9 @@
+{
+  "frames": 705,
+  "avg_fps": 18.781661135454826,
+  "latency_p50_ms": 51.61149997729808,
+  "latency_p95_ms": 65.59477997943758,
+  "detections_per_frame_mean": 11.94468085106383,
+  "detections_per_frame_std": 2.0038411883363,
+  "temporal_consistency_mean_iou": 0.9249037833078533
+}
